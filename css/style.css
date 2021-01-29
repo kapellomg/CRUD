@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(206, 206, 206);
+    border: 5px double rgb(88, 88, 88);
+    margin:50px;
+    margin-top: 150px;
+  }
+
+  #eerste_div {
+      border: 5px solid red;
+      color:rgb(88, 11, 107);
+      font-size: 100px;
+      padding: 50px;
+      text-align: center;
+  }
+
+  #tweede_div {
+      border: 5px solid rgb(55, 0, 255) 
+  }
+
+  .persoonsgegevens {
+      background-color:whitesmoke;
+  }
